@@ -1,0 +1,9 @@
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+
+.lexend-custom {
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400; /* Adjust the font weight as needed */
+  font-style: normal;
+}
